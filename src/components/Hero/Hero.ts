@@ -5,7 +5,7 @@ export const HeroSection = styled.section`
   width: 100%;
   background-image: url('https://cdn.pixabay.com/photo/2018/08/10/15/45/woman-3597101_1280.jpg');
   background-size: cover;
-  background-position: top;
+  background-position: center;
   position: relative;
   display: flex;
   align-items: center;
