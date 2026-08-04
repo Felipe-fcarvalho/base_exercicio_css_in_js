@@ -1,4 +1,4 @@
-import HeaderContainer from './Cabecalho'
+import HeaderContainer from './styles'
 
 const Cabecalho = () => (
   <HeaderContainer>
